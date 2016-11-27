@@ -1,4 +1,5 @@
 add some test
 add yidian local texts
 add some local texts 
-add nima aa a 
+add nima aa a
+add some texts on master
